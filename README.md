@@ -41,6 +41,16 @@ Additional topics for interview prep:
 * [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [Additional system design interview questions](#additional-system-design-interview-questions)
 
+## Udemy course
+
+https://www.udemy.com/course/preparing-for-system-design-interviews/
+
+## Course on educative
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+## Youtube videos 
+https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+
 ## Anki flashcards
 
 <p align="center">
